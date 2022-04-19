@@ -1,0 +1,24 @@
+E:\PROGRAMAS EN C#\WinFormsApp\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+E:\PROGRAMAS EN C#\WinFormsApp\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+E:\PROGRAMAS EN C#\WinFormsApp\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+E:\PROGRAMAS EN C#\WinFormsApp\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojAssemblyReference.cache
+E:\PROGRAMAS EN C#\WinFormsApp\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+E:\PROGRAMAS EN C#\WinFormsApp\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+E:\PROGRAMAS EN C#\WinFormsApp\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.cache
+E:\PROGRAMAS EN C#\WinFormsApp\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS EN C#\WinFormsApp\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+E:\PROGRAMAS EN C#\WinFormsApp\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+D:\PRACTICAS\PROGRAMAS EN C#\WinFormsApp\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.AssemblyReference.cache
+D:\PRACTICAS\PROGRAMAS EN C#\WinFormsApp\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+D:\PRACTICAS\PROGRAMAS EN C#\WinFormsApp\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+D:\PRACTICAS\PROGRAMAS EN C#\WinFormsApp\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.cache
+D:\PRACTICAS\PROGRAMAS EN C#\WinFormsApp\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+D:\PRACTICAS\PROGRAMAS EN C#\WinFormsApp\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+D:\PRACTICAS\PROGRAMAS EN C#\WinFormsApp\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+D:\PRACTICAS\Proyectos que puedo usar\C#\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.AssemblyReference.cache
+D:\PRACTICAS\Proyectos que puedo usar\C#\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+D:\PRACTICAS\Proyectos que puedo usar\C#\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+D:\PRACTICAS\Proyectos que puedo usar\C#\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.cache
+D:\PRACTICAS\Proyectos que puedo usar\C#\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+D:\PRACTICAS\Proyectos que puedo usar\C#\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+D:\PRACTICAS\Proyectos que puedo usar\C#\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
